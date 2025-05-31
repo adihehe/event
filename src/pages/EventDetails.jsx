@@ -1,6 +1,6 @@
 import { useParams, Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
-import CountdownTimer from '../components/CountdownTimer';
+import CountdownTimer from '../components/CountDownTimer';
 import { Mail, Phone, MapPin, User } from 'lucide-react';
 
 const EventDetails = () => {
