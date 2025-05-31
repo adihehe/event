@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import CountdownTimer from './CountdownTimer';
+import CountdownTimer from './CountDownTimer';
 
 const EventCard = ({ event }) => {
   return (
