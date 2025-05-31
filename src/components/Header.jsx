@@ -14,6 +14,8 @@ const Header = () => {
       <nav className="flex items-center gap-6 text-gray-700 font-medium">
         <Link to="/" className="hover:text-blue-500">Home</Link>
         <Link to="/contact" className="hover:text-blue-500">Contact Us</Link>
+        <Link to="/admin" className="hover:text-blue-500">Admin</Link>
+
       </nav>
     </header>
   );
